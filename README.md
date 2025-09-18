@@ -1,4 +1,4 @@
-## UG Thesis: Integrating Encryption with NLP Pipelines
+## Integrating Encryption with NLP Pipelines
 
 ### Overview
 
